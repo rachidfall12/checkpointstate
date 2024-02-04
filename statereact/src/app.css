@@ -1,0 +1,27 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card{
+  position: relative;
+  left: 540px;
+  background-image: url(/fond.jpg);
+  background-size: cover;
+  
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: black;
+}
+.profile p{
+  color: black;
+}
+
+p{
+  color: white;
+}
